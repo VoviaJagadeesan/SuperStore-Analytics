@@ -1,4 +1,4 @@
-📌 Project Overview
+#📌 Project Overview
 
 Analyzed the Tableau Sample Superstore dataset to evaluate sales performance, profitability, discount impact, and customer segmentation. Performed data preprocessing in Excel and built
 interactive dashboards in Tableau to generate actionable business insights.
