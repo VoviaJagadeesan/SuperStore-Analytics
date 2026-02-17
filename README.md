@@ -1,9 +1,9 @@
-#📌 Project Overview
+# Project Overview
 
 Analyzed the Tableau Sample Superstore dataset to evaluate sales performance, profitability, discount impact, and customer segmentation. Performed data preprocessing in Excel and built
 interactive dashboards in Tableau to generate actionable business insights.
 
-#🛠️ Tools & Technologies
+# Tools & Technologies
 
 ~Microsoft Excel (Data Cleaning, Pivot Tables, Preprocessing, Dashboard)
 
@@ -15,7 +15,7 @@ interactive dashboards in Tableau to generate actionable business insights.
 
 ~KPI Metrics Design
 
-#📊 Analysis Performed
+# Analysis Performed
 
 ~Regional Sales & Profit Analysis
 
@@ -27,7 +27,7 @@ interactive dashboards in Tableau to generate actionable business insights.
 
 ~Time-Series Trend Analysis (Monthly & Yearly)
 
-#📈 Key Insights
+# Key Insights
 
 ~High discount rates significantly reduce profit margins
 
@@ -37,9 +37,6 @@ interactive dashboards in Tableau to generate actionable business insights.
 
 ~Regional performance shows variation in profit ratios
 
-#🎯 Skills Demonstrated
+#Skills Demonstrated
 
 Data Analysis | Tableau | Excel | Data Cleaning | Pivot Tables | Dashboard Design | Business Intelligence | KPI Development | Analytical Thinking
-✔ Placement-ready
-✔ Professional
-✔ Clearly shows Excel + Tableau both
