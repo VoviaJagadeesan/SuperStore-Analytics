@@ -37,6 +37,6 @@ interactive dashboards in Tableau to generate actionable business insights.
 
 ~Regional performance shows variation in profit ratios
 
-#Skills Demonstrated
+# Skills Demonstrated
 
 Data Analysis | Tableau | Excel | Data Cleaning | Pivot Tables | Dashboard Design | Business Intelligence | KPI Development | Analytical Thinking
